@@ -7,3 +7,6 @@ HTML
 
 CSS
 
+Images
+![GitHub Logo](embedding video.png)
+Format: ![Alt Text](url)
