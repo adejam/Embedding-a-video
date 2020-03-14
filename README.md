@@ -7,3 +7,6 @@ BUILT WITH
 -CSS
 
 
+Images
+![GitHub Logo](images/embedding video.png)
+Format: ![Alt Text](url)
