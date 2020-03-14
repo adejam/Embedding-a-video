@@ -8,5 +8,5 @@ HTML
 CSS
 
 Images
-![GitHub Logo](embedding video.png)
+![GitHub Logo](images/embedding video.png)
 Format: ![Alt Text](url)
