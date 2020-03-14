@@ -8,5 +8,5 @@ BUILT WITH
 
 
 Images
-![GitHub Logo](images/Embedding video.png)
+![GitHub Logo](/images/embedding-video.png)
 Format: ![Alt Text](url)
