@@ -8,15 +8,15 @@ This is a youtube video page clone.
 - CSS
 
 ## Images
-![GitHub Logo](/images/embedding-video.png)
+![Youtube video page clone](/images/embedding-video.png)
 ## Screenshot: 
-![App Screenshot](/images/embedding-video.png)
+![Youtube video page clone](/images/embedding-video.png)
 
 
 
 ## Author
 ### Adeleye Jamiu
-- @[adejam](http://github.com/adejam)
+- [@adejam](http://github.com/adejam)
 
 ## Contributing
 Contributions, issues and feature requests are welcome!
@@ -27,7 +27,7 @@ Give a star if you like this project!
 
 
 ## Acknowledgments
-- @[bolah2009](http://github.com/bolah2009)
+- [@bolah2009](http://github.com/bolah2009)
 
 ## License
 AdejamTech License
