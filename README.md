@@ -1,12 +1,13 @@
 # Embedding-a-video
 This is a youtube video page clone. 
 
-##BUILT WITH
+## BUILT WITH
 
 - HTML
 
 - CSS
 
-## Screenshot
+## Images
 ![GitHub Logo](images/embedding-video.png)
-Format: ![App Screenshot](/images/embedding-video.png)
+## Screenshot: 
+![App Screenshot](/images/embedding-video.png)
