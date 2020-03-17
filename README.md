@@ -8,7 +8,7 @@ This is a youtube video page clone.
 - CSS
 
 ## Images
-![GitHub Logo](images/embedding-video.png)
+![GitHub Logo](/images/embedding-video.png)
 ## Screenshot: 
 ![App Screenshot](/images/embedding-video.png)
 
@@ -16,7 +16,7 @@ This is a youtube video page clone.
 
 ## Author
 ### Adeleye Jamiu
-- @adejam
+- @[GitHub](http://github.com/adejam)
 
 ## Contributing
 Contributions, issues and feature requests are welcome!
@@ -27,7 +27,7 @@ Give a star if you like this project!
 
 
 ## Acknowledgments
-@bolah2009
+- @[GitHub](http://github.com/bolah2009)
 
 ## License
 AdejamTech License
