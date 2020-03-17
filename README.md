@@ -16,8 +16,7 @@ This is a youtube video page clone.
 
 ## Author
 ### Adeleye Jamiu
-- @github/adejam
-- @twitter/Adeleye_oj
+- @adejam
 
 ## Contributing
 Contributions, issues and feature requests are welcome!
@@ -28,7 +27,7 @@ Give a star if you like this project!
 
 
 ## Acknowledgments
-@github/bolah2009
+@bolah2009
 
-## Lincense
-&copy AdejamTech 2020
+## License
+AdejamTech License
