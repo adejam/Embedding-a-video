@@ -1,12 +1,33 @@
 # Embedding-a-video
-Embedding a video in a webpage
+This is a youtube video page clone. 
 
-BUILT WITH
--HTML
+## BUILT WITH
 
--CSS
+- HTML
+
+- CSS
+
+## Images
+![Youtube video page clone](/images/embedding-video.png)
+## Screenshot: 
+![Youtube video page clone](/images/embedding-video.png)
 
 
-Images
-![GitHub Logo](/images/embedding-video.png)
-Format: ![Alt Text](/images/embedding-video.png)
+
+## Author
+### Adeleye Jamiu
+- [@adejam](http://github.com/adejam)
+
+## Contributing
+Contributions, issues and feature requests are welcome!
+
+
+## Show Your Support
+Give a star if you like this project!
+
+
+## Acknowledgments
+- [@bolah2009](http://github.com/bolah2009)
+
+## License
+AdejamTech License
