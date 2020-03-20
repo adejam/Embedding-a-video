@@ -47,7 +47,7 @@ body {
   height: 100%;
 }
 
-.search-div {
+.search_div {
   margin: 0 2%;
   vertical-align: middle;
   flex: 1;
@@ -55,14 +55,14 @@ body {
   flex-direction: row;
 }
 
-.search-div form {
+.search_div form {
   width: 100%;
   margin: 0 0;
   display: flex;
   background: transparent;
 }
 
-.input1 {
+.input {
   position: relative;
   border: 1px solid #d3d3d3;
   width: 90%;
@@ -71,7 +71,7 @@ body {
   padding: 2px 6px;
 }
 
-.input2 {
+.search_button {
   border-radius: 0 2px 2px 0;
   margin: 0;
   cursor: pointer;
@@ -83,7 +83,7 @@ body {
   padding: 2px 6px;
 }
 
-.input2 img {
+.search_button img {
   width: 20px;
   height: 20px;
   color: #333;
@@ -105,7 +105,7 @@ body {
   color: #333;
 }
 
-.a-icon {
+.a_icon {
   width: 27px;
   height: 27px;
   color: #333;
