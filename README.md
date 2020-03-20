@@ -8,7 +8,7 @@ This is a youtube video page clone.
 - CSS
 
 ## Live Demo
-- [Live Demo](https://raw.githack.com/adejam/Embedding-a-video/Add-main-content/index.html)
+- [Live Demo Link](https://raw.githack.com/adejam/Embedding-a-video/Add-main-content/index.html)
 
 ## Images
 ![Youtube video page clone](/images/embedding-video.png)
