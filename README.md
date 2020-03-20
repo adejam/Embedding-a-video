@@ -7,6 +7,9 @@ This is a youtube video page clone.
 
 - CSS
 
+## Live Demo
+- [Live Demo Link](https://adejam.github.io/Embedding-a-video/. )
+
 ## Images
 ![Youtube video page clone](/images/embedding-video.png)
 ## Screenshot: 
@@ -30,4 +33,6 @@ Give a star if you like this project!
 - [@bolah2009](http://github.com/bolah2009)
 
 ## License
+
 AdejamTech License
+
